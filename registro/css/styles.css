@@ -1,0 +1,19 @@
+body{
+	    background-color: blue;
+    }
+
+form {
+	background-color: white;
+	font-family: verdana;
+	font-size: 10px;
+}
+
+p{
+	color: red;
+	text-align: center;
+}
+
+div{
+	background-color: yellow;
+	border-color:red;
+}
